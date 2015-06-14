@@ -1,0 +1,20 @@
+15/06/14 19:46:38 INFO utils.WebDriverController: Going to start Browser: FIREFOX
+15/06/14 19:46:47 INFO pages.TestLogIn: Test Login form in case when not existed password is entered to password field 
+15/06/14 19:46:48 INFO pages.BasePage: Loading page: http://www.openforbeta.com/
+15/06/14 19:46:58 INFO pages.TestLogIn: loginError Page is loaded after entering not existed password 
+15/06/14 19:46:58 INFO utils.WebDriverController: Going to start Browser: FIREFOX
+15/06/14 19:47:04 INFO pages.TestLogIn: Test Positive Login
+15/06/14 19:47:04 INFO pages.BasePage: Loading page: http://www.openforbeta.com/
+15/06/14 19:47:15 INFO pages.TestLogIn: You are loged successfully
+15/06/14 19:47:15 INFO utils.WebDriverController: Going to start Browser: FIREFOX
+15/06/14 19:47:22 INFO pages.TestLogIn: Test Login Link 
+15/06/14 19:47:22 INFO pages.BasePage: Loading page: http://www.openforbeta.com/
+15/06/14 19:47:28 INFO pages.TestLogIn: Login link is valid 
+15/06/14 19:47:28 INFO utils.WebDriverController: Going to start Browser: FIREFOX
+15/06/14 19:47:35 INFO pages.TestLogIn: Test Login form in case when all fields are empty 
+15/06/14 19:47:35 INFO pages.BasePage: Loading page: http://www.openforbeta.com/
+15/06/14 19:47:43 INFO pages.TestLogIn: loginError Page is loaded after entering empty text to all fields 
+15/06/14 19:47:43 INFO utils.WebDriverController: Going to start Browser: FIREFOX
+15/06/14 19:47:50 INFO pages.TestLogIn: Test Login form in case when password field is empty 
+15/06/14 19:47:50 INFO pages.BasePage: Loading page: http://www.openforbeta.com/
+15/06/14 19:48:00 INFO pages.TestLogIn: loginError Page is loaded after entering empty text to password field 

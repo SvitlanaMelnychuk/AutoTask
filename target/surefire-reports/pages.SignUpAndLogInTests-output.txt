@@ -1,0 +1,62 @@
+15/06/14 22:55:35 INFO utils.WebDriverController: Going to start Browser: CHROME
+Starting ChromeDriver 2.15.322448 (52179c1b310fec1797c81ea9a20326839860b7d3) on port 42209
+Only local connections are allowed.
+15/06/14 22:55:39 INFO pages.TestSignUp: Test SignUp Page in case when all fields are empty 
+15/06/14 22:55:39 INFO pages.BasePage: Loading page: http://www.openforbeta.com/signup
+15/06/14 22:55:56 INFO pages.TestSignUp: 'Error: Register before submission.' message is appeared 
+15/06/14 22:55:59 INFO utils.WebDriverController: Going to start Browser: CHROME
+Starting ChromeDriver 2.15.322448 (52179c1b310fec1797c81ea9a20326839860b7d3) on port 42488
+Only local connections are allowed.
+15/06/14 22:56:12 INFO pages.TestSignUp: Test SignUp Link 
+15/06/14 22:56:13 INFO pages.BasePage: Loading page: http://www.openforbeta.com/
+15/06/14 22:56:25 INFO pages.TestSignUp: SignUp link is valid 
+15/06/14 22:56:28 INFO utils.WebDriverController: Going to start Browser: CHROME
+Starting ChromeDriver 2.15.322448 (52179c1b310fec1797c81ea9a20326839860b7d3) on port 12076
+Only local connections are allowed.
+15/06/14 22:56:31 INFO pages.TestSignUp: Test SignUp Page in case when password field is empty 
+15/06/14 22:56:31 INFO pages.BasePage: Loading page: http://www.openforbeta.com/signup
+15/06/14 22:56:46 INFO pages.TestSignUp: 'Error: Password not entered.' message is appeared 
+15/06/14 22:56:51 INFO utils.WebDriverController: Going to start Browser: CHROME
+Starting ChromeDriver 2.15.322448 (52179c1b310fec1797c81ea9a20326839860b7d3) on port 31038
+Only local connections are allowed.
+15/06/14 22:56:55 INFO pages.TestSignUp: Test SignUp Page in case when confirm password field is empty 
+15/06/14 22:56:55 INFO pages.BasePage: Loading page: http://www.openforbeta.com/signup
+15/06/14 22:57:08 INFO pages.TestSignUp: 'Error: Confirm password not entered.' message is appeared 
+15/06/14 22:57:11 INFO utils.WebDriverController: Going to start Browser: CHROME
+Starting ChromeDriver 2.15.322448 (52179c1b310fec1797c81ea9a20326839860b7d3) on port 5773
+Only local connections are allowed.
+15/06/14 22:57:14 INFO pages.TestSignUp: Test SignUp Page in case when not existed password is entered to confirm password field 
+15/06/14 22:57:14 INFO pages.BasePage: Loading page: http://www.openforbeta.com/signup
+15/06/14 22:57:29 INFO pages.TestSignUp: 'Error: The password you entered does not match the confirm password.' message is appeared 
+15/06/14 22:57:31 INFO utils.WebDriverController: Going to start Browser: CHROME
+Starting ChromeDriver 2.15.322448 (52179c1b310fec1797c81ea9a20326839860b7d3) on port 27075
+Only local connections are allowed.
+15/06/14 22:57:34 INFO pages.TestSignUp: Test SignUp Page in case when not valid email is entered to email field 
+15/06/14 22:57:34 INFO pages.BasePage: Loading page: http://www.openforbeta.com/signup
+15/06/14 22:57:46 INFO pages.TestSignUp: 'Error: Your e-mail address is invalid.' message is appeared 
+15/06/14 22:57:47 INFO utils.WebDriverController: Going to start Browser: CHROME
+Starting ChromeDriver 2.15.322448 (52179c1b310fec1797c81ea9a20326839860b7d3) on port 26415
+Only local connections are allowed.
+15/06/14 22:57:50 INFO pages.TestSignUp: Test SignUp Page in case when captcha field is empty 
+15/06/14 22:57:50 INFO pages.BasePage: Loading page: http://www.openforbeta.com/signup
+15/06/14 22:58:00 INFO pages.TestSignUp: 'Error: Image code wrong, please try again.' message is appeared 
+15/06/14 22:58:01 INFO utils.WebDriverController: Going to start Browser: FIREFOX
+15/06/14 22:58:10 INFO pages.TestLogIn: Test Login form in case when all fields are empty 
+15/06/14 22:58:10 INFO pages.BasePage: Loading page: http://www.openforbeta.com/
+15/06/14 22:58:19 INFO pages.TestLogIn: loginError Page is loaded after entering empty text to all fields 
+15/06/14 22:58:19 INFO utils.WebDriverController: Going to start Browser: FIREFOX
+15/06/14 22:58:28 INFO pages.TestLogIn: Test Login form in case when not existed password is entered to password field 
+15/06/14 22:58:28 INFO pages.BasePage: Loading page: http://www.openforbeta.com/
+15/06/14 22:58:38 INFO pages.TestLogIn: loginError Page is loaded after entering not existed password 
+15/06/14 22:58:38 INFO utils.WebDriverController: Going to start Browser: FIREFOX
+15/06/14 22:58:47 INFO pages.TestLogIn: Test Positive Login
+15/06/14 22:58:47 INFO pages.BasePage: Loading page: http://www.openforbeta.com/
+15/06/14 22:58:59 INFO pages.TestLogIn: You are loged successfully
+15/06/14 22:58:59 INFO utils.WebDriverController: Going to start Browser: FIREFOX
+15/06/14 22:59:07 INFO pages.TestLogIn: Test Login Link 
+15/06/14 22:59:07 INFO pages.BasePage: Loading page: http://www.openforbeta.com/
+15/06/14 22:59:15 INFO pages.TestLogIn: Login link is valid 
+15/06/14 22:59:15 INFO utils.WebDriverController: Going to start Browser: FIREFOX
+15/06/14 22:59:24 INFO pages.TestLogIn: Test Login form in case when password field is empty 
+15/06/14 22:59:24 INFO pages.BasePage: Loading page: http://www.openforbeta.com/
+15/06/14 22:59:35 INFO pages.TestLogIn: loginError Page is loaded after entering empty text to password field 
