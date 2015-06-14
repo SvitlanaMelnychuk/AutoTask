@@ -1,0 +1,42 @@
+15/06/15 01:06:25 INFO utils.WebDriverController: Going to start Browser: CHROME
+Starting ChromeDriver 2.15.322448 (52179c1b310fec1797c81ea9a20326839860b7d3) on port 17394
+Only local connections are allowed.
+15/06/15 01:06:28 INFO pages.SignUpTest: Test SignUp Page in case when not existed password is entered to confirm password field 
+15/06/15 01:06:28 INFO pages.BasePage: Loading page: http://www.openforbeta.com/signup
+15/06/15 01:06:41 INFO pages.SignUpTest: 'Error: The password you entered does not match the confirm password.' message is appeared 
+15/06/15 01:06:42 INFO utils.WebDriverController: Going to start Browser: CHROME
+Starting ChromeDriver 2.15.322448 (52179c1b310fec1797c81ea9a20326839860b7d3) on port 9502
+Only local connections are allowed.
+15/06/15 01:06:45 INFO pages.SignUpTest: Test SignUp Page in case when confirm password field is empty 
+15/06/15 01:06:45 INFO pages.BasePage: Loading page: http://www.openforbeta.com/signup
+15/06/15 01:06:58 INFO pages.SignUpTest: 'Error: Confirm password not entered.' message is appeared 
+15/06/15 01:06:59 INFO utils.WebDriverController: Going to start Browser: CHROME
+Starting ChromeDriver 2.15.322448 (52179c1b310fec1797c81ea9a20326839860b7d3) on port 30651
+Only local connections are allowed.
+15/06/15 01:07:02 INFO pages.SignUpTest: Test SignUp Page in case when password field is empty 
+15/06/15 01:07:02 INFO pages.BasePage: Loading page: http://www.openforbeta.com/signup
+15/06/15 01:07:15 INFO pages.SignUpTest: 'Error: Password not entered.' message is appeared 
+15/06/15 01:07:16 INFO utils.WebDriverController: Going to start Browser: CHROME
+Starting ChromeDriver 2.15.322448 (52179c1b310fec1797c81ea9a20326839860b7d3) on port 43409
+Only local connections are allowed.
+15/06/15 01:07:19 INFO pages.SignUpTest: Test SignUp Page in case when all fields are empty 
+15/06/15 01:07:19 INFO pages.BasePage: Loading page: http://www.openforbeta.com/signup
+15/06/15 01:07:31 INFO pages.SignUpTest: 'Error: Register before submission.' message is appeared 
+15/06/15 01:07:33 INFO utils.WebDriverController: Going to start Browser: CHROME
+Starting ChromeDriver 2.15.322448 (52179c1b310fec1797c81ea9a20326839860b7d3) on port 28717
+Only local connections are allowed.
+15/06/15 01:07:36 INFO pages.SignUpTest: Test SignUp Page in case when captcha field is empty 
+15/06/15 01:07:36 INFO pages.BasePage: Loading page: http://www.openforbeta.com/signup
+15/06/15 01:07:49 INFO pages.SignUpTest: 'Error: Image code wrong, please try again.' message is appeared 
+15/06/15 01:07:51 INFO utils.WebDriverController: Going to start Browser: CHROME
+Starting ChromeDriver 2.15.322448 (52179c1b310fec1797c81ea9a20326839860b7d3) on port 23174
+Only local connections are allowed.
+15/06/15 01:07:54 INFO pages.SignUpTest: Test SignUp Page in case when not valid email is entered to email field 
+15/06/15 01:07:54 INFO pages.BasePage: Loading page: http://www.openforbeta.com/signup
+15/06/15 01:08:07 INFO pages.SignUpTest: 'Error: Your e-mail address is invalid.' message is appeared 
+15/06/15 01:08:09 INFO utils.WebDriverController: Going to start Browser: CHROME
+Starting ChromeDriver 2.15.322448 (52179c1b310fec1797c81ea9a20326839860b7d3) on port 29067
+Only local connections are allowed.
+15/06/15 01:08:11 INFO pages.SignUpTest: Test SignUp Link 
+15/06/15 01:08:11 INFO pages.BasePage: Loading page: http://www.openforbeta.com/
+15/06/15 01:08:21 INFO pages.SignUpTest: SignUp link is valid 
