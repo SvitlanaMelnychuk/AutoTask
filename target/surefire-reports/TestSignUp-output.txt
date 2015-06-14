@@ -1,0 +1,36 @@
+06/08/2015 19:40:06 [ INFO] [BasePage.class]: line 36 - Loading page: http://seltr-kbp1-1.synapse.com:8080/login?from=%2FBasePage.java
+06/08/2015 19:40:12 [ INFO] [BasePage.class]: line 44 - t is typed to search fieldMainPage.java
+06/08/2015 19:40:13 [ INFO] [BasePage.class]: line 63 - test user is found in dropdownMainPage.java
+06/08/2015 19:40:13 [ INFO] [BasePage.class]: line 66 - test is selected from dropdownMainPage.java
+06/08/2015 19:40:13 [ INFO] [BasePage.class]: line 72 - test is foundMainPage.java
+06/08/2015 19:40:21 [ INFO] [BasePage.class]: line 36 - Loading page: http://seltr-kbp1-1.synapse.com:8080/BasePage.java
+06/08/2015 19:40:25 [ INFO] [BasePage.class]: line 86 - Page is loaded: http://seltr-kbp1-1.synapse.com:8080/signupMainPage.java
+06/08/2015 19:40:25 [ INFO] [TestSignUp.class]: line 53 - SignUp link is worked TestSignUp.java
+06/08/2015 19:40:32 [ INFO] [BasePage.class]: line 36 - Loading page: http://seltr-kbp1-1.synapse.com:8080/signupBasePage.java
+06/08/2015 19:40:36 [ INFO] [BasePage.class]: line 90 - All fields are typed and submittedSignUpPage.java
+06/08/2015 19:40:38 [ INFO] [TestSignUp.class]: line 64 - You are signed up succesfullyTestSignUp.java
+06/08/2015 19:40:38 [ INFO] [BasePage.class]: line 36 - Loading page: http://seltr-kbp1-1.synapse.com:8080/login?from=%2FBasePage.java
+06/08/2015 19:40:41 [ INFO] [BasePage.class]: line 44 - K is typed to search fieldMainPage.java
+06/08/2015 19:40:42 [ INFO] [BasePage.class]: line 63 - KZvizda user is found in dropdownMainPage.java
+06/08/2015 19:40:42 [ INFO] [BasePage.class]: line 66 - KZvizda is selected from dropdownMainPage.java
+06/08/2015 19:40:43 [ INFO] [BasePage.class]: line 72 - KZvizda is foundMainPage.java
+06/08/2015 19:40:53 [ INFO] [BasePage.class]: line 36 - Loading page: http://seltr-kbp1-1.synapse.com:8080/signupBasePage.java
+06/08/2015 19:40:55 [ INFO] [BasePage.class]: line 90 - All fields are typed and submittedSignUpPage.java
+06/08/2015 19:40:57 [ INFO] [TestSignUp.class]: line 75 - 'Invalid e-mail address' message is appeared TestSignUp.java
+06/08/2015 19:41:04 [ INFO] [BasePage.class]: line 36 - Loading page: http://seltr-kbp1-1.synapse.com:8080/signupBasePage.java
+06/08/2015 19:41:08 [ INFO] [BasePage.class]: line 90 - All fields are typed and submittedSignUpPage.java
+06/08/2015 19:41:10 [ INFO] [TestSignUp.class]: line 84 - 'User name is required' message is appeared TestSignUp.java
+06/08/2015 19:41:18 [ INFO] [BasePage.class]: line 36 - Loading page: http://seltr-kbp1-1.synapse.com:8080/signupBasePage.java
+06/08/2015 19:41:22 [ INFO] [BasePage.class]: line 90 - All fields are typed and submittedSignUpPage.java
+06/08/2015 19:41:24 [ INFO] [TestSignUp.class]: line 93 - 'Password is required' message is appeared TestSignUp.java
+06/08/2015 19:41:31 [ INFO] [BasePage.class]: line 36 - Loading page: http://seltr-kbp1-1.synapse.com:8080/signupBasePage.java
+06/08/2015 19:41:35 [ INFO] [BasePage.class]: line 90 - All fields are typed and submittedSignUpPage.java
+06/08/2015 19:41:36 [ INFO] [TestSignUp.class]: line 102 - 'Password didnt match' message is appeared TestSignUp.java
+06/08/2015 19:41:44 [ INFO] [BasePage.class]: line 36 - Loading page: http://seltr-kbp1-1.synapse.com:8080/signupBasePage.java
+06/08/2015 19:41:48 [ INFO] [BasePage.class]: line 90 - All fields are typed and submittedSignUpPage.java
+06/08/2015 19:41:57 [ INFO] [BasePage.class]: line 36 - Loading page: http://seltr-kbp1-1.synapse.com:8080/signupBasePage.java
+06/08/2015 19:42:02 [ INFO] [BasePage.class]: line 90 - All fields are typed and submittedSignUpPage.java
+06/08/2015 19:42:11 [ INFO] [BasePage.class]: line 36 - Loading page: http://seltr-kbp1-1.synapse.com:8080/signupBasePage.java
+06/08/2015 19:42:18 [ INFO] [BasePage.class]: line 90 - All fields are typed and submittedSignUpPage.java
+06/08/2015 19:42:27 [ INFO] [BasePage.class]: line 36 - Loading page: http://seltr-kbp1-1.synapse.com:8080/signupBasePage.java
+06/08/2015 19:42:32 [ INFO] [BasePage.class]: line 90 - All fields are typed and submittedSignUpPage.java
